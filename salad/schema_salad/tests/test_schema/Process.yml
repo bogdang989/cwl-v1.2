@@ -25,13 +25,13 @@ $graph:
   doc: "Version symbols for published CWL document versions."
   symbols:
     - cwl:draft-2
-    - cwl:draft-3.dev2
+    - cwl:draft-3.dev1
     - cwl:draft-3.dev2
     - cwl:draft-3.dev3
     - cwl:draft-3.dev4
     - cwl:draft-3.dev5
     - cwl:draft-3
-    - cwl:draft-4.dev2
+    - cwl:draft-4.dev1
     - cwl:draft-4.dev2
     - cwl:draft-4.dev3
     - cwl:v1.0.dev4
